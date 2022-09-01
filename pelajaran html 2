@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href="">Testing</a>
+    <img src="https://s.w.org/style/images/about/WordPress-logotype-alternative.png" alt="" width="250">
+    <input type="text" name="" id="" placeholder="search">
+    <button>SEARCH</button>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. A, at exercitationem? Facilis tempore recusandae deleniti exercitationem quos modi, fugit pariatur quam asperiores delectus est voluptate, corrupti nihil, tenetur saepe ullam?</p>
+
+    <!-- berfungsi untuk nambahin header  -->
+    <h1>TESTING AJAH </h1>
+    <h2>TESTING AJAH </h2>
+    <h3>TESTING AJAH </h3>
+    <h4>TESTING AJAH </h4>
+    <h5>TESTING AJAH </h5>
+    <h6>TESTING AJAH </h6>
+    <select>
+        <option>-pilih tanggal-</option>
+        <option>1</option>
+    </select>
+    <br><br><br><br>
+    <label>Pilih</label>
+    <input type="radio" name="" id="">
+    <br><br><br><br>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/UE225YE1Ags" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <br><br><br><br>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.3252610688946!2d106.78088231397025!3d-6.220770662657384!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f6cd0000003d%3A0x1f5fa010fece9b0b!2sKampus%20Babastudio%20Permata%20Hijau!5e0!3m2!1sen!2sid!4v1657199254782!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</body>
+</html>
+
+iframe untuk menaruh video youtube atau map dalam web
